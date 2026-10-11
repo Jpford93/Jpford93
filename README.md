@@ -42,7 +42,7 @@ Historical examples of my work customizing Shopify storefronts and ecommerce exp
 | Project | Selected work |
 | --- | --- |
 | **Freshly Squeezed Juice Bar** | Custom hero and product sections, testimonials, and contact forms |
-| **Empress** | Product interfaces, collections, search, cart, and customer account components |
+| **[Empress](https://github.com/Jpford93/shopify-liquid-portfolio/tree/master/projects/empress)** | Storefront gallery, product interfaces, collections, search, cart, and customer account components |
 
 These are selected theme files, not complete deployable storefronts.
 
@@ -74,7 +74,7 @@ These are selected theme files, not complete deployable storefronts.
 
 ## Beyond the code
 
-- Founded **K.W.A.Sports,Co.**, an extreme sportswear brand with a sponsorship program supporting **40 domestic and international athletes**.
+- Founded **KWA Sports Co.**, an extreme sportswear brand with a sponsorship program supporting **40 domestic and international athletes**.
 - Built ecommerce experiences and practical tools for business operations.
 - Worked across logistics, marketing, creative production, and software development.
 - Currently studying public administration while building Invenua.
