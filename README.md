@@ -7,7 +7,6 @@
 Building technology for the physical world.
 
 [![Invenua website](https://img.shields.io/badge/Explore-Invenua-24292f?style=for-the-badge)](https://invenua.com)
-[![Code portfolio](https://img.shields.io/badge/View-Code_Portfolio-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jpford93/shopify-liquid-portfolio)
 
 </div>
 
@@ -33,20 +32,11 @@ Our first product, **Invenua Home**, is being prepared for external testing.
 
 **[Learn about Invenua →](https://invenua.com)**
 
-## Selected development work
+## Development experience
 
-### [Shopify Liquid Portfolio](https://github.com/Jpford93/shopify-liquid-portfolio)
+I have built custom ecommerce storefront components and software that supports real business workflows, including product displays, shopping experiences, and operational coordination.
 
-Historical examples of my work customizing Shopify storefronts and ecommerce experiences.
-
-| Project | Selected work |
-| --- | --- |
-| **Freshly Squeezed Juice Bar** | Custom hero and product sections, testimonials, and contact forms |
-| **[Empress](https://github.com/Jpford93/shopify-liquid-portfolio/tree/master/projects/empress)** | Storefront gallery, product interfaces, collections, search, cart, and customer account components |
-
-These are selected theme files, not complete deployable storefronts.
-
-**[Explore the source code →](https://github.com/Jpford93/shopify-liquid-portfolio)**
+My previous client work is documented privately while I review publication rights for source files and project media. Invenua's proprietary application code also remains private.
 
 ## Technologies
 
@@ -85,7 +75,7 @@ These are selected theme files, not complete deployable storefronts.
 
 ### Connect
 
-[Invenua](https://invenua.com) · [GitHub](https://github.com/Jpford93) · [Code Portfolio](https://github.com/Jpford93/shopify-liquid-portfolio)
+[Invenua](https://invenua.com) · [GitHub](https://github.com/Jpford93)
 
 *Building software. Improving systems. Solving real-world problems.*
 
