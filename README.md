@@ -44,7 +44,7 @@ My previous client work is documented privately while I review publication right
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-333333?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat-square&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css&logoColor=white)
