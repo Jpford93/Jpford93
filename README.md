@@ -64,7 +64,7 @@ My previous client work is documented privately while I review publication right
 
 ## Beyond the code
 
-- Founded **KWA Sports Co.**, an extreme sportswear brand with a sponsorship program supporting **40 domestic and international athletes**.
+- Founded **K.W.A.Sports,Co**, an extreme sportswear brand with a sponsorship program supporting **40 domestic and international athletes**.
 - Built ecommerce experiences and practical tools for business operations.
 - Worked across logistics, marketing, creative production, and software development.
 - Currently studying public administration while building Invenua.
