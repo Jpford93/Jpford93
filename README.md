@@ -2,7 +2,7 @@
 
 # Hi, I'm Jamarr.
 
-### Founder & CEO of Invenua · Software Developer · Entrepreneur
+### Founder · Software Developer · Entrepreneur
 
 Building technology for the physical world.
 
