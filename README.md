@@ -6,8 +6,6 @@
 
 Building technology for the physical world.
 
-![![Invenua website](https://img.shields.io/badge/Explore-Invenua-24292f?style=for-the-badge)](https://invenua.com)
-
 </div>
 
 ---
@@ -75,7 +73,7 @@ My previous client work is documented privately while I review publication right
 
 ### Connect
 
-![Invenua](https://invenua.com) · [GitHub](https://github.com/Jpford93)
+[GitHub](https://github.com/Jpford93)
 
 *Building software. Improving systems. Solving real-world problems.*
 
